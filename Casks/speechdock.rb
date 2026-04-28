@@ -1,6 +1,6 @@
 cask "speechdock" do
-  version "0.1.33"
-  sha256 "af1642031e16c1e78a9d3746025b57b8bc95c0ec1b589929b551ba30cce4596e"
+  version "0.1.34"
+  sha256 "6126c18c84a0b78da9956edc0d2286975f90182c3eb4eaaf72267d20096a22d3"
 
   url "https://github.com/yohasebe/speechdock/releases/download/v#{version}/SpeechDock-#{version}.dmg"
   name "SpeechDock"
